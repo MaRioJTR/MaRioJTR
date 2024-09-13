@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mario Maged
 
-<!--
-**MaRioJTR/MaRioJTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at the **Arab Academy for Science, Technology & Maritime Transport (AASTMT)**.
 
-Here are some ideas to get you started:
+🔧 I have a growing passion for web development, with skills in **HTML** and **CSS**. Currently, I'm building my foundation in frontend development as a **Junior Developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I’m also diving into **Object-Oriented Programming (OOP)**, learning **Java** to enhance my coding and problem-solving skills.
+
+📚 Always excited to learn new technologies and improve my expertise in the world of software development!
+
+---
+
+### 💻 What I’m working on:
+- **Web Development:** Enhancing my skills in HTML & CSS to create responsive and interactive web pages.
+- **Java:** Building my understanding of OOP concepts through projects and exercises.
+
+---
+
+### 📫 How to reach me:
+- **Email:** [G-mail](gaminggo11@duck.com)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/mario-maged-dev/)
+- **Portfolio:** [JustForHelp Web-site](https://mariojtr.github.io/JUSTforHELP/)
+
+---
+
+### 🚀 Skills:
+- **Languages:** HTML, CSS, Java (beginner level)
+- **Tools:** Visual Studio Code, Git, IntelliJ IDEA, Eclipse
+
+---
+
+### 🌱 I’m currently learning:
+- Responsive Web Design using HTML/CSS
+- Java programming for OOP
+
+### 🌟 Goals:
+- To be full-stack developmer
+- To build projects using Java OOP
