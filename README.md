@@ -17,7 +17,7 @@
 ---
 
 ### 📫 How to reach me:
-- **Email:** [G-mail](engulf-pry-enclose@duck.com)
+- **Email:** [engulf-pry-enclose@duck.com](engulf-pry-enclose@duck.com)
 - **LinkedIn:** [Linkedin](https://www.linkedin.com/in/mario-maged-dev/)
 - **Portfolio:** [JustForHelp Web-site](https://mariojtr.github.io/JUSTforHELP/)
 
