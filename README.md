@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mario Maged
+# Hi there! 👋 I'm Mario 
 
 🎓 I'm a Computer Science student at the **Arab Academy for Science, Technology & Maritime Transport (AASTMT)**.
 
