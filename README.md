@@ -1,12 +1,10 @@
-# Hi there! 👋 I'm Mario 
+# Wassup! I'm Mario 
 
-🎓 I'm a Computer Science student at the **Arab Academy for Science, Technology & Maritime Transport (AASTMT)**.
+I'm a Computer Science student at the **Arab Academy for Science, Technology & Maritime Transport (AASTMT)**.
 
-🔧 I have a growing passion for web development, with skills in **HTML** and **CSS**. Currently, I'm building my foundation in frontend development as a **Junior Developer**.
+I've just started with web development, with skills in **HTML** and **CSS**. Currently, I'm building my foundation in frontend development as a **Junior Developer**.
 
-🚀 I’m also diving into **Object-Oriented Programming (OOP)**, learning **Java** to enhance my coding and problem-solving skills.
-
-📚 Always excited to learn new technologies and improve my expertise in the world of software development!
+I’m also diving into **Object-Oriented Programming (OOP)**, learning **Java** to enhance my coding and problem-solving skills.
 
 ---
 
@@ -24,15 +22,14 @@
 ---
 
 ### 🚀 Skills:
-- **Languages:** HTML, CSS, Java (beginner level)
+- **Languages:** C and Java (beginner level)
 - **Tools:** Visual Studio Code, Git, IntelliJ IDEA, Eclipse
 
 ---
 
 ### 🌱 I’m currently learning:
-- Responsive Web Design using HTML/CSS
+- Responsive Web Design using HTML/CSS/JS
 - Java programming for OOP
 
 ### 🌟 Goals:
-- To be full-stack developmer
-- To build projects using Java OOP
+- To be full-stack developer and join team to build high-scale softwares
