@@ -19,7 +19,7 @@
 
 <p>A clean, modern, code-themed portfolio with smooth scrolling, responsive layout, and interactive sections.</p>
 
-🔗 <a href="https://mariojtr.github.io/portfolio/" target="_blank"><b>Live Demo</b> →</a>
+🔗 <a href="https://mariojtr.github.io/just-portfolio/" target="_blank"><b>Live Demo</b> →</a>
 
 </div>
 
