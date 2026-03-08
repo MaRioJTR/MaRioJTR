@@ -31,21 +31,6 @@
 - **Modern, GitHub-like code aesthetic**
 - **Lightweight & framework-free** (pure HTML/CSS/JS)
 
-## 🚀 Getting Started (Local)
-
-1. Clone the repository
-```bash
-git clone https://github.com/MaRioJTR/portfolio.git
-cd portfolio
-```
-2. Open `index.html` in your browser
-   - Double-click the file, or
-   - Serve locally for a better experience:
-```bash
-# Python 3
-python -m http.server 5500
-# then open http://localhost:5500
-```
 
 ## 🧭 Site Map
 - `home()` — Hero with profile and typing effect
