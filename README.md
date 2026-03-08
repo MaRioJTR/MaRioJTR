@@ -40,7 +40,7 @@
 
 
 ## 👇 Quick Links
-- Live: `https://mariojtr.github.io/portfolio/`
+- Live: `https://mariojtr.github.io/just-portfolio/`
 - LinkedIn: `https://www.linkedin.com/in/mario-maged-dev/`
 - GitHub: `https://github.com/MaRioJTR`
 - Email: `mariomaged3m@gmail.com`
