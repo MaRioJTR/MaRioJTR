@@ -31,14 +31,6 @@
 - **Modern, GitHub-like code aesthetic**
 - **Lightweight & framework-free** (pure HTML/CSS/JS)
 
-## 🖼️ Preview
-
-<div align="center">
-
-<img src="me.jpg" alt="Profile" width="180" style="border-radius:50%;margin:8px;"/>
-
-</div>
-
 ## 🚀 Getting Started (Local)
 
 1. Clone the repository
